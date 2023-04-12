@@ -36,8 +36,3 @@ Material-UI: UI component library for styling and layout
 
 ## Deployment
 The application can be deployed to render (a free cloud platform).
-
-## Credits
-Bhavya Tyagi - project creator
-
-Material-UI - UI component library
