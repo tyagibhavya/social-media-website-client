@@ -3,6 +3,7 @@ This is a full-stack social media application built with the MERN stack (MongoDB
 
 ## Preview
 Link: https://lookatdis-gbz7hr7rm-tyagibhavya.vercel.app/
+[ May take some time to load as it is hosted on free server which is usaully very slow. ]
 
 ![image](https://user-images.githubusercontent.com/99269005/231383895-35ffbabf-0e89-46b0-aae5-594475742009.png)
 
